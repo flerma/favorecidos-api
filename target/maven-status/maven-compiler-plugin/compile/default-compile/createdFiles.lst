@@ -1,0 +1,8 @@
+br\com\favorecido\api\dto\FavorecidoDto.class
+br\com\favorecido\api\RegisterMetricsConfiguration.class
+br\com\favorecido\api\model\Cliente.class
+br\com\favorecido\api\model\Favorecido.class
+br\com\favorecido\api\repository\FavorecidoRepository.class
+br\com\favorecido\api\FavorecidoApplication.class
+br\com\favorecido\api\resource\FavorecidoResource.class
+br\com\favorecido\api\service\FavorecidoService.class

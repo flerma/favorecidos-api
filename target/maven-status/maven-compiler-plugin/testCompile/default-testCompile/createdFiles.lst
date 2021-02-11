@@ -1,0 +1,4 @@
+br\com\favorecido\api\resource\FavorecidoResourceTest.class
+br\com\favorecido\api\mocks\FavorecidoMock.class
+br\com\favorecido\api\mocks\FavorecidoDtoMock.class
+br\com\favorecido\api\service\FavorecidoServiceTest.class
