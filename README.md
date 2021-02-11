@@ -9,6 +9,8 @@ Repositório para entrega do Desafio Itaú
 * Como rodar a aplicação?
 * Como Testar?
 * Metricas      
+* Documentação da API      
+
 
 ### Como rodar a aplicação? ###
 
